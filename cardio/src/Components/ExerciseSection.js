@@ -1,7 +1,7 @@
 import React,{useEffect,useState} from 'react'
 import {Stack,Box,Typography,Pagination} from '@mui/material'
 import ExerciseCard from './ExerciseCard';
-import {FetchData,ApiOptions} from '../utils/fetchData';
+import {FetchData,ApiOptions} from '../utils/FetchData';
 
 
 const ExerciseSection= ({Exercises,setExercises,Bodypart}) => {

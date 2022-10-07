@@ -34,7 +34,7 @@ useEffect(() => {
     const recomendedTargetEqupmentData = await FetchData(`${exercisesUrl}/exercises/equipment/${exerciseDetailData.equipment}`,ApiOptions);
     setrecomendedTargetEquipments(recomendedTargetEqupmentData);
   };
-  fetchExerciseDetailsData();
+  //fetchExerciseDetailData();
 }, [id]);
 
   return (

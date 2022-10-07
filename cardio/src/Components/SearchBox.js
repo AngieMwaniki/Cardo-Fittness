@@ -1,7 +1,7 @@
 import React,{useState,useEffect} from "react";
 import { Box, Stack, Typography, TextField, Button } from "@mui/material";
-import {FetchData,ApiOptions} from '../utils/fetchData';
-import HorizontalScrollBar from './HorizantalScrollbar';
+import {FetchData,ApiOptions} from '../utils/FetchData';
+import HorizontalScrollBar from './HorizontalScrollBar.js';
 
 const SearchBox = ({setExercises,Bodypart,setBodypart}) => {
   const [Search, setSearch] = useState('');
