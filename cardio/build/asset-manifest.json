@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cardo-Fittness/static/css/main.69bc6521.css",
+    "main.js": "/Cardo-Fittness/static/js/main.2ba2f1a8.js",
+    "static/media/banner.png": "/Cardo-Fittness/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Cardo-Fittness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Cardo-Fittness/index.html",
+    "main.69bc6521.css.map": "/Cardo-Fittness/static/css/main.69bc6521.css.map",
+    "main.2ba2f1a8.js.map": "/Cardo-Fittness/static/js/main.2ba2f1a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bc6521.css",
+    "static/js/main.2ba2f1a8.js"
+  ]
+}
