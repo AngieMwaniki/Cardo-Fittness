@@ -6,7 +6,7 @@ import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'
 
 import Home from './Pages/Home';
-import ExerciseDetails from './Pages/ExerciseDetails';
+import ExerciseDetails from './Pages/ExerciseSection';
 
 const App = () => {
   return (
