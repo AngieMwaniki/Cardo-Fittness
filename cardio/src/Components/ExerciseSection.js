@@ -1,10 +1,10 @@
 import React,{useEffect,useState} from 'react'
 import {Stack,Box,Typography,Pagination} from '@mui/material'
 import ExerciseCard from './ExerciseCard';
-import {FetchData,ApiOptions} from '../utils/FetchData';
+import {FetchData,ApiOptions} from '../utils/fetchData';
 
 
-const ExerciseSection = ({Exercises,setExercises,Bodypart}) => {
+const ExerciseSection= ({Exercises,setExercises,Bodypart}) => {
     const [currentPage, setcurrentPage] = useState(1);
     const exercisePerPage=9;
     const lastExerciseIndex=currentPage*exercisePerPage;
