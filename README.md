@@ -1,4 +1,4 @@
-About The Project Project Name Splash MakeUp.
+About The Project Project Name Cardio-Fittness.
 
 Authors Name Angela Muthon Mwaniki
 
