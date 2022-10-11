@@ -1,5 +1,7 @@
 About The Project Project Name Cardio-Fittness.
 
+live link https://angiemwaniki.github.io/Cardo-Fittness/
+
 Authors Name Angela Muthon Mwaniki
 
 Table of contents General info Technologies Setup contact
